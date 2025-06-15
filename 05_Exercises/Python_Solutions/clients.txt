@@ -1,0 +1,3 @@
+1;Adam Zielony
+2;Alicja Czarna
+3;Bogdan Fioletowy

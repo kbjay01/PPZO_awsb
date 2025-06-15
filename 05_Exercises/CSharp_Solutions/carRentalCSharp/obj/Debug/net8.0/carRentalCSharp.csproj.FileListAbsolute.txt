@@ -1,0 +1,14 @@
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\bin\Debug\net8.0\carRentalCSharp.exe
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\bin\Debug\net8.0\carRentalCSharp.deps.json
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\bin\Debug\net8.0\carRentalCSharp.runtimeconfig.json
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\bin\Debug\net8.0\carRentalCSharp.dll
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\bin\Debug\net8.0\carRentalCSharp.pdb
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.dll
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\refint\carRentalCSharp.dll
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.pdb
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\carRentalCSharp.genruntimeconfig.cache
+C:\Users\Jakub\source\repos\carRentalCSharp\carRentalCSharp\obj\Debug\net8.0\ref\carRentalCSharp.dll
